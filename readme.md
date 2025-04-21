@@ -115,16 +115,7 @@ The result will be:
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/bc74f039-2b14-4260-a30b-ceacf611a185" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+     <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -158,16 +149,7 @@ You will get this:
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/04ab527b-6da1-4726-9210-a8853dda5577" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -181,16 +163,7 @@ About 30% users will get this (the other 70% will get other random results depen
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/149fb486-9ccc-4a48-b1f0-326253051e9b" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>A typical worse result.</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -220,35 +193,7 @@ If everything is in order you will get some result like this eventually.
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/c3be4bde-2e33-4fd4-b76d-289a036d3a47" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
-    </td>
-  </tr>
-</table>
-
-6s version:
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/37fe2c33-cb03-41e8-acca-920ab3e34861" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -270,16 +215,7 @@ Below are some more examples that you may be interested in reproducing.
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/cebe178a-09ce-4b7a-8f3c-060332f4dab1" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -295,16 +231,7 @@ Below are some more examples that you may be interested in reproducing.
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/116069d2-7499-4f38-ada7-8f85517d1fbb" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -320,16 +247,7 @@ Below are some more examples that you may be interested in reproducing.
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/d9e3534a-eb17-4af2-a8ed-8e692e9993d2" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -345,16 +263,7 @@ Below are some more examples that you may be interested in reproducing.
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/e1b3279e-e30d-4d32-b55f-2fb1d37c81d2" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -370,16 +279,7 @@ Below are some more examples that you may be interested in reproducing.
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/aaa4481b-7bf8-4c64-bc32-909659767115" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -396,16 +296,7 @@ Below are some more examples that you may be interested in reproducing.
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/f23f2f37-c9b8-45d5-a1be-7c87bd4b41cf" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
@@ -421,16 +312,7 @@ Below are some more examples that you may be interested in reproducing.
 <table>
   <tr>
     <td align="center" width="300">
-      <video 
-        src="https://github.com/user-attachments/assets/62e9910e-aea6-4b2b-9333-2e727bccfc64" 
-        controls 
-        style="max-width:100%;">
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Video may be compressed by GitHub</em>
+      <p>Video Removed</p>
     </td>
   </tr>
 </table>
